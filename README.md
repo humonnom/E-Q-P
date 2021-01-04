@@ -1,7 +1,22 @@
 # E-Q-P
 
-**update csv file & testfile excute**
-./quiz.sh
+renew.sh -> renew source file
+test.sh -> 
+review.sh -> check test result
 
-**testfile excute**
-python3 test.py
+	dir structure
++-------------------+
+|--README.md		|
+|					|
+|--renew.sh 		|
+|--test.sh			|
+|--review.sh		|
+|					|
+|--code 			|
+|	|--test.py		|
+|	|--review.py	|
+|	|--func.py		|
+|	|--quiz.csv		|
+|	|--answer.csv	|
+|	|--result.csv	|
++-------------------+
