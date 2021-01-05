@@ -2,7 +2,7 @@
    
 **test.sh** -> Run the test   
 ```
-:Available option  
+.. Available option::  
 	test.sh re -> Test incorrect one only   
 	test.sh {date} -> Test only items that correspond to a date   
 ```
