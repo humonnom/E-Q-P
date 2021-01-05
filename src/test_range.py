@@ -47,7 +47,7 @@ def get_date_range(df, argv):
             end = today
         delta = end - start
         for i in range(delta.days + 1):
-            day = (start + timedelta(days=i)).strftime("%Y-%m-%d")
+            day = (start + timedelta(days=i)).strftime("%Y-%-m-%-d")
             testlist.append(day)
     print_range(testlist)
     is_test_range = df['date'].isin(testlist)
