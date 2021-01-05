@@ -1,14 +1,13 @@
 # E-Q-P   
    
 **test.sh** -> Run the test   
-```
-.. Available option::  
+```md:Available options.md
 	test.sh re -> Test incorrect one only   
 	test.sh {date} -> Test only items that correspond to a date   
 ```
 **renew.sh** -> renew source files   
 **review.sh** -> view incorrect items   
-```   
+```md:directory.md
 directory tree   
 .   
 ├── README.md   
