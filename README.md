@@ -9,8 +9,7 @@
 **renew.sh** -> renew source files(from spread sheet)   
 ```
 	**Available options**   
-	renew.sh {file name} -> renew source files   
-							using your own sentences      
+	renew.sh {file name} -> renew source files using your own sentences      
 ```
 **review.sh** -> view incorrect items   
 ```md:directory.md
