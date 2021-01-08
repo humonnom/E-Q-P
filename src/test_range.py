@@ -40,11 +40,11 @@ def get_date_range(df, argv):
         start = today
         end = today
         if (_range == '1'):
-            start = today - timedelta(days=(weekday + 7 + 3))
-            end = start + timedelta(days=6)
+            start = today - timedelta(days=(weekday + 7))
+            end = start + timedelta(days=4)
         if (_range == '2'):
-            start = today - timedelta(days=(weekday + 3))
-            end = start + timedelta(days=6)
+            start = today - timedelta(days=(weekday))
+            end = start + timedelta(days=4)
         delta = end - start
         for i in range(delta.days + 1):
             day = (start + timedelta(days=i)).strftime("%Y-%-m-%-d")
