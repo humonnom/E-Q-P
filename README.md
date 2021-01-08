@@ -2,11 +2,16 @@
    
 **test.sh** -> Run the test   
 ```md:Available options.md
-	Available options
+	**Available options**
 	test.sh re -> Test incorrect one only   
-	test.sh {date} -> Test only items that correspond to a date   
+	test.sh {date} -> Test only items that correspond to a date  	
 ```
-**renew.sh** -> renew source files   
+**renew.sh** -> renew source files(from spread sheet)   
+```
+	**Available options**   
+	renew.sh {file name} -> renew source files   
+							using your own sentences      
+```
 **review.sh** -> view incorrect items   
 ```md:directory.md
 directory tree   
