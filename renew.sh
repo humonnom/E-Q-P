@@ -23,13 +23,17 @@ function get_google()
 
 function get_custom()
 {
-	echo "You will be test on {$1}"
-	location=`find src/txt/* -name "$1.txt"`
-	if [ -z $location ];then
-		echo "There is no file named '$1'"
-		echo "--> Deactivate EQP"
-		exit 0
-	fi
+	key="1xUuN0pHPYingmQiarXT6sLgfEErOaC1LH2mpOo6LfRI"
+	sheet_name="Blank Quiz"
+	wget --no-check-certificate "https://docs.google.com/spreadsheets/d/${key}/gviz/tq?tqx=out:csv&sheet=${sheet_name}" -O quiz.csv
+	wget --no-check-certificate "https://docs.google.com/spreadsheets/d/${key}/gviz/tq?tqx=out:csv&sheet=${sheet_name}&gid=209686043" -O answer.csv
+#	echo "You will be test on {$1}"
+#	location=`find src/txt/* -name "$1.txt"`
+#	if [ -z $location ];then
+#		echo "There is no file named '$1'"
+#		echo "--> Deactivate EQP"
+#		exit 0
+#	fi
 }
 
 echo "1. Check version"
