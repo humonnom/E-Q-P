@@ -19,8 +19,8 @@
 ---
 
 ## Command  
-### ./test.sh 
-**RUN TEST**          
+**RUN TEST**   
+#### ./test.sh           
 Mode: Blank Quiz / Custom(준비중..)   
 Default: Blank Quiz   
 Option:   
@@ -33,8 +33,8 @@ Option:
 
 -> src/result.csv
 	
-### ./renew.sh {option}
 **RENEW TEST**        
+#### ./renew.sh {option}   
 Mode: Blank Quiz / Custom(준비중..)   
 Default: Blank Quiz   
 Option:  
@@ -43,8 +43,8 @@ Option:
   
 -> src/quiz.csv & src/answer.csv
 	
-### ./review.sh
-**MAKE INCORRECT WORD'S EXAMPLE FILE**
+**MAKE INCORRECT WORD'S EXAMPLE FILE**    
+#### ./review.sh   
 Mode: Default mode only  
 -> src/Diglett 폴더에 저장됨   
 
