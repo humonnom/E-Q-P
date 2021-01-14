@@ -3,18 +3,22 @@
 ## English Quiz Program
 좋아하는 드라마 대본으로 영어 공부를 할 수 있는 프로그램  
 
-## 컨텐츠의 종류  
+---
+
+## Files
 - Google Spread Sheet  
 - txt 파일  
 
-## 포함된 프로그램  
+## Programs  
 ### Bash shell  
 - Python 프로그램을 조작(시작, 리뉴얼 등)  
 - 부가 프로그램(docx, srt를 txt파일로 바꿔주는 변환기)  
 ### Python  
 - 주된 프로그램  
-  
-## 사용자가 사용할 수 있는 명령어  
+
+---
+
+## Command  
 ### ./test.sh {option}
 **RUN TEST**
 Mode: Blank Quiz / Custom(준비중..)   
@@ -38,6 +42,8 @@ Option:
 **MAKE INCORRECT WORD'S EXAMPLE FILE**
 Mode: Default mode only  
 -> src/Diglett 폴더에 저장됨   
+
+---
 
 ## 프로젝트 디렉토리    
 ```md:directory.md
