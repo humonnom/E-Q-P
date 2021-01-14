@@ -1,6 +1,7 @@
 # E-Q-P   
 
-## 좋아하는 드라마 대본으로 영어 공부를 할 수 있는 프로그램  
+## English Quiz Program
+좋아하는 드라마 대본으로 영어 공부를 할 수 있는 프로그램  
 
 ## 컨텐츠의 종류  
 - Google Spread Sheet  
