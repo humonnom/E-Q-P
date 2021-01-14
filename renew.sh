@@ -36,6 +36,13 @@ function get_custom()
 #	fi
 }
 
+function change_to_txt()
+{
+	cd src
+	./chtxt.sh
+	cd ..
+}
+
 echo "1. Check version"
 check_install
 echo "2. Get quiz.csv & answer.csv"
@@ -46,6 +53,8 @@ else
 fi
 mv quiz.csv src/
 mv answer.csv src/
-echo "3. Done"
+echo "3. Change srt file -> txt file"
+change_to_txt
+echo "4. Done"
 echo "run test: ./test.sh"
 

@@ -1,5 +1,7 @@
 import os
 from sys import argv
+import docx2txt
+import glob
 
 def get_filelist(path):
     path_dir = path
@@ -24,17 +26,28 @@ def print_sentence(word, senlist):
         f.close()
         print("Check " + path)
 
-def handle_dir(path, word):
-    senlist = []
+def handle_dir(path, word, senlist):
     filelist = get_filelist(path)
     for item in filelist:
-        senlist += handle_txt(path + '/', item, word)
-    return senlist
+        senlist = handle_txt(path + '/', item, word, senlist)
+    return (senlist)
 
-def handle_txt(path, filename, word):
+def docx_to_txt(path, filename):
+    text = docx2txt.process(path + filename).split('\n')
+    newfile = os.path.splitext(filename)[0] + '.txt'
+    f = open(path + newfile, 'w')
+    for item in text:
+        f.write(item + '\n')
+    f.close()
+    os.remove(path + filename)
+    return (newfile)
+
+def handle_txt(path, filename, word, senlist):
+    ext = os.path.splitext(filename)[-1]
+    if ext == '.docx':
+        filename = docx_to_txt(path, filename)
     f = open(path + filename, 'r')
     index = 0
-    senlist = []
     line = f.readline()
     while line:
         if word in line:
@@ -43,15 +56,15 @@ def handle_txt(path, filename, word):
         line = f.readline()
         index += 1
     f.close()
-    return senlist
+    return (senlist)
 
 def dig_main(word):
     senlist = []
     path = 'txt'
     dirlist = get_filelist(path);
     for item in dirlist:
-        senlist += handle_dir(path + '/' + item, word)
-    print_sentence(word, senlist)
+        senlist = handle_dir(path + '/' + item, word, senlist)
+#    print_sentence(word, senlist)
 
 if (len(argv) == 2):
     word = argv[1]
