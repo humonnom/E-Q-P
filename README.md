@@ -19,7 +19,7 @@
 ---
 
 ## Command  
-**RUN TEST**   
+###**[ RUN TEST ]**   
 #### ./test.sh           
 Mode: Blank Quiz / Custom(준비중..)   
 Default: Blank Quiz   
