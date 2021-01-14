@@ -5,11 +5,10 @@
 
 ---
 
-## Files
+### Files
 - Google Spread Sheet  
 - txt 파일  
 
-## Programs  
 ### Bash shell  
 - Python 프로그램을 조작(시작, 리뉴얼 등)  
 - 부가 프로그램(docx, srt를 txt파일로 바꿔주는 변환기)  
