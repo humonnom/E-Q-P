@@ -43,9 +43,10 @@ Option:
   
 -> src/quiz.csv & src/answer.csv
 	
-**MAKE INCORRECT WORD'S EXAMPLE FILE**    
+**REVIEW TEST**    
 #### ./review.sh   
 Mode: Default mode only  
+
 -> src/Diglett 폴더에 저장됨   
 
 ---
@@ -80,49 +81,10 @@ Mode: Default mode only
 │   │       └── {engage}.png
 │   └── txt		-> source file(txt)
 │       ├── bigbang
-│       │   ├── bigbang\ theory\ season1\ e1-6.txt
-│       │   ├── bigbang\ theory\ season1\ e13-17.txt
-│       │   ├── bigbang\ theory\ season1\ e7-12.txt
-│       │   ├── bigbang\ theory\ season2\ e1-8.txt
-│       │   ├── bigbang\ theory\ season2\ e17-23.txt
-│       │   ├── bigbang\ theory\ season2\ e9-16.txt
-│       │   ├── bigbang\ theory\ season3\ e1-8.txt
-│       │   ├── bigbang\ theory\ season3\ e17-23.txt
-│       │   ├── bigbang\ theory\ season3\ e9-16.txt
-│       │   ├── bigbang\ theory\ season4.txt
-│       │   ├── bigbang\ theory\ season5-1.txt
-│       │   ├── bigbang\ theory\ season5-10.txt
-│       │   ├── bigbang\ theory\ season5-11.txt
-│       │   ├── bigbang\ theory\ season5-12.txt
-│       │   ├── bigbang\ theory\ season5-13.txt
-│       │   ├── bigbang\ theory\ season5-14.txt
-│       │   ├── bigbang\ theory\ season5-15.txt
-│       │   ├── bigbang\ theory\ season5-16.txt
-│       │   ├── bigbang\ theory\ season5-17.txt
-│       │   ├── bigbang\ theory\ season5-18.txt
-│       │   ├── bigbang\ theory\ season5-19.txt
-│       │   ├── bigbang\ theory\ season5-2.txt
-│       │   ├── bigbang\ theory\ season5-20.txt
-│       │   ├── bigbang\ theory\ season5-21.txt
-│       │   ├── bigbang\ theory\ season5-22.txt
-│       │   ├── bigbang\ theory\ season5-23.txt
-│       │   ├── bigbang\ theory\ season5-24.txt
-│       │   ├── bigbang\ theory\ season5-3.txt
-│       │   ├── bigbang\ theory\ season5-4.txt
-│       │   ├── bigbang\ theory\ season5-5.txt
-│       │   ├── bigbang\ theory\ season5-6.txt
-│       │   ├── bigbang\ theory\ season5-7.txt
-│       │   ├── bigbang\ theory\ season5-8.txt
-│       │   └── bigbang\ theory\ season5-9.txt
+│       │   └── bigbang\ theory\ {season}-{epi}.txt
 │       ├── it_crowd
-│       │   ├── 1-1.txt
-│       │   ├── 1-2.txt
-│       │   ├── 1-3.txt
-│       │   ├── 1-4.txt
-│       │   ├── 1-5.txt
-│       │   └── 1-6.txt
+│       │   └── {season}-{epi}.txt
 │       └── voyager
-│           ├── voyager4_16.txt    
-└──         └── voyager4_20.txt     
+└──         └── voyager{season}_{epi}.txt     
 
 11 directories, 163 files
