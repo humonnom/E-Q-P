@@ -1,17 +1,44 @@
 # E-Q-P   
-   
-**test.sh** -> Run the test   
-```md:Available options.md
-	**Available options**
-	test.sh re -> Test incorrect one only   
-	test.sh {date} -> Test only items that correspond to a date  	
-```
-**renew.sh** -> renew source files(from spread sheet)   
-```
-	**Available options**   
-	renew.sh {file name} -> renew source files using your own sentences      
-```
-**review.sh** -> view incorrect items   
+
+## 좋아하는 드라마 대본으로 영어 공부를 할 수 있는 프로그램  
+
+## 컨텐츠의 종류  
+### Google Spread Sheet  
+### txt 파일  
+
+## 포함된 프로그램  
+### Bash shell  
+- Python 프로그램을 조작(시작, 리뉴얼 등)  
+- 부가 프로그램(docx, srt를 txt파일로 바꿔주는 변환기)  
+### Python  
+- 주된 프로그램  
+  
+## 사용자가 사용할 수 있는 명령어  
+### ./test.sh {option}
+**RUN TEST**
+Mode: Blank Quiz / Custom(준비중..)   
+Default: Blank Quiz   
+Option:   
+	-날짜 지정: `test.sh {date}`      
+	`./test.sh 2021-01-03` or `./test.sh 2021-1-3` 모두 가능   
+	-틀린것만 다시보기 `test.sh re`  
+-> src/result.csv
+	
+### ./renew.sh {option}
+**RENEW TEST**
+Mode: Blank Quiz / Custom(준비중..)   
+Default: Blank Quiz   
+Option:  
+	-Custom file 불러오기: `renew.sh {file name}`
+	(준비중..)  
+-> src/quiz.csv & src/answer.csv
+	
+### ./review.sh
+**MAKE INCORRECT WORD'S EXAMPLE FILE**
+Mode: Default mode only  
+-> src/Diglett 폴더에 저장됨   
+
+## 프로젝트 디렉토리    
 ```md:directory.md
 .
 ├── README.md
