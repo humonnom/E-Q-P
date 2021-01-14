@@ -24,9 +24,9 @@
 Mode: Blank Quiz / Custom(준비중..)   
 Default: Blank Quiz   
 Option:   
-	-날짜 지정: `test.sh {date}`      
-	`./test.sh 2021-01-03` or `./test.sh 2021-1-3` 모두 가능   
-	-틀린것만 다시보기 `test.sh re`  
+    -날짜 지정: `test.sh {date}`      
+    `./test.sh 2021-01-03` or `./test.sh 2021-1-3` 모두 가능   
+    -틀린것만 다시보기 `test.sh re`  
 -> src/result.csv
 	
 ### ./renew.sh {option}
