@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 import time
+import random
 from datetime import datetime, timedelta
 
 import func as ft
@@ -11,7 +12,9 @@ color = ft.color()
 info = ft.info()
 
 def get_test_range(df, argv):
-    if (len(argv) == 2 and argv[1] == 're'):
+    if (len(argv) == 2 and argv[1] == 'whole'):
+        test_range = get_whole(df)
+    elif (len(argv) == 2 and argv[1] == 're'):
         test_range = get_retest_range(df)
     else :
         test_range = get_date_range(df, argv)
@@ -19,6 +22,17 @@ def get_test_range(df, argv):
     # empty test range ? -> end test
     # print
     return (test_range)
+
+def get_whole(df):
+    testlist = df.dropna(axis=0)
+    datelist = testlist['date']
+    print_range(datelist.values.tolist())
+    print('[ shuffled, 50ea ]')
+    testlist = list(range(len(testlist)))
+    random.shuffle(testlist)
+    if len(testlist) > 50:
+        testlist = testlist[:50]
+    return(testlist)
 
 def get_retest_range(df):
     df_re = pd.read_csv("result.csv")
@@ -49,8 +63,8 @@ def get_date_range(df, argv):
         for i in range(delta.days + 1):
             day = (start + timedelta(days=i)).strftime("%Y-%-m-%-d")
             testlist.append(day)
-            day = (start + timedelta(days=i)).strftime("%Y-%m-%d")
-            testlist.append(day)
+            day2 = (start + timedelta(days=i)).strftime("%Y-%m-%d")
+            testlist.append(day2)
     print_range(testlist)
     is_test_range = df['date'].isin(testlist)
     return(df[is_test_range])
