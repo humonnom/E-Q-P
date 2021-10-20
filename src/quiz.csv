@@ -1,92 +1,127 @@
-"날짜","작성자","챕터","문제 (빈칸은 (_____)로 표기)","빈칸 뜻","힌트","서술형인가요?","중복되나요?","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","Of course, one must always (_____) self-doubt and fear but that is a small price to pay","극복하다","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+"날짜","작성자","챕터","문제 (빈칸은 (_____)로 표기)","빈칸 뜻","힌트","서술형인가요?","중복되나요?","정답","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","Of course, one must always (_____) self-doubt and fear but that is a small price to pay","극복하다","1단어","FALSE","FALSE","confront","","","","","","","","","","","","","","","","","","",""
 "2021-01-09","juepark","voyager","I am a member of a small group --Explores like you,
 but we (_____) challenges, problems to be solved
---Technological, biological, social, even artistic.","찾다","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","I feel like I'm ready to (_____).","폭발하다","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","We'll (_____) this together.","끝내다, 이겨내다","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","Doc : Which is best? How do you (_____) that?","결정하다","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","Neelix : I never (_____), really.","해석 : 깊게 생각해본 적 없어요.","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","상황마다 다르죠","-","문장쓰기","TRUE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","voyager","We're scanning for microfractures. I don't see the (_____).","해석 : 미세균열 찾는데 그게 무슨 상관이죠?","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","itcrowd","Roy, can I (_____) something? Are we now loitering? ","확인하다","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","itcrowd","Jen lacks basic computer skills, like thinking that IT (_____) ""internet things.""","-를 -라고(-가 -를 의미한다고)","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+--Technological, biological, social, even artistic.","찾다","2단어","FALSE","FALSE","seek out","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","I feel like I'm ready to (_____).","폭발하다","1단어","FALSE","FALSE","explode","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","We'll (_____) this together.","끝내다, 이겨내다","2단어","FALSE","FALSE","get through","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","Doc : Which is best? How do you (_____) that?","결정하다","1단어","FALSE","FALSE","determine","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","Neelix : I never (_____), really.","해석 : 깊게 생각해본 적 없어요.","3단어","FALSE","FALSE","thought about it","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","상황마다 다르죠","-","문장쓰기","TRUE","FALSE","I guess every situation is little different.","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","voyager","We're scanning for microfractures. I don't see the (_____).","해석 : 미세균열 찾는데 그게 무슨 상관이죠?","1단어","FALSE","FALSE","relevance","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","itcrowd","Roy, can I (_____) something? Are we now loitering? ","확인하다","1단어","FALSE","FALSE","clarify","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","itcrowd","Jen lacks basic computer skills, like thinking that IT (_____) ""internet things.""","-를 -라고(-가 -를 의미한다고)","2단어","FALSE","FALSE","stands for","","","","","","","","","","","","","","","","","","",""
 "2021-01-09","juepark","itcrowd","-(singing) WE DON'T NEED NO EDUCATION.
--YES YOU DO. You've just used (_____).","이중부정","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","itcrowd","It's the talk of the office.","-","문장해석","TRUE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","itcrowd","And then that just tensed me (_____).","바로 다시","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","itcrowd","눈물이 다 나네","-","문장쓰기","TRUE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-09","juepark","itcrowd","-How are things? -Well, you know, (_____).","그저그래","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","voyager","She's an (_____) girl.","영리한","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","voyager","(_____), Captain, I'm her godfather.","외람된 말씀이지만","4단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","voyager","Give us a hand?","-","해석","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","voyager","We (_____) worse.","-을 뚫고 비행하다","have + p.p + 전치사","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+-YES YOU DO. You've just used (_____).","이중부정","3단어","FALSE","FALSE","a double negative","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","itcrowd","It's the talk of the office.","-","문장해석","TRUE","FALSE","사무실의 화제죠.","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","itcrowd","And then that just tensed me (_____).","바로 다시","3단어","FALSE","FALSE","right up again","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","itcrowd","눈물이 다 나네","-","문장쓰기","TRUE","FALSE","I've got tears in my eyes.","","","","","","","","","","","","","","","","","","",""
+"2021-01-09","juepark","itcrowd","-How are things? -Well, you know, (_____).","그저그래","2단어","FALSE","FALSE","not brilliant","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","voyager","She's an (_____) girl.","영리한","1단어","FALSE","FALSE","astute","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","voyager","(_____), Captain, I'm her godfather.","외람된 말씀이지만","4단어","FALSE","FALSE","With all due respect","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","voyager","Give us a hand?","-","해석","TRUE","FALSE","좀 도와주실래요?","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","voyager","We (_____) worse.","-을 뚫고 비행하다","have + p.p + 전치사","FALSE","FALSE","have flown through","","","","","","","","","","","","","","","","","","",""
 "2021-01-13","juepark","voyager","Captain : but the safety of this crew is (_____).
-We haven't had the best of luck with the Borg.","최우선이다. 첫번째 의무이다.","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","voyager","Actually, I'm (_____) names at the moment.","(이름/직업이) 아직 없어요.","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","voyager","It's been over a year since our (_____).","처음 접촉, 첫만남","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","itcrowd","You can't (_____) the whole harmony of the place.","잘못되게 만들다","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","itcrowd","Now look, I know that the place looks like a bit of a (_____)","엉망","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","itcrowd","But It's actually a very (_____). Everything is connected.","민감한 생태계","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","itcrowd","(_____) the rainforest.","-처럼","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","itcrowd","You don't want the rainforest to (_____), do you?","사라지다","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-13","juepark","itcrowd","I've never heard anything so (_____) in my life.","이상한","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+We haven't had the best of luck with the Borg.","최우선이다. 첫번째 의무이다.","3단어","FALSE","FALSE","my first responsibility","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","voyager","Actually, I'm (_____) names at the moment.","(이름/직업이) 아직 없어요.","2단어","FALSE","FALSE","in between","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","voyager","It's been over a year since our (_____).","처음 접촉, 첫만남","2단어","FALSE","FALSE","first encounter","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","itcrowd","You can't (_____) the whole harmony of the place.","잘못되게 만들다","1단어","FALSE","FALSE","upset","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","itcrowd","Now look, I know that the place looks like a bit of a (_____)","엉망","1단어","FALSE","FALSE","mess","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","itcrowd","But It's actually a very (_____). Everything is connected.","민감한 생태계","2단어","FALSE","FALSE","delicate ecosystem","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","itcrowd","(_____) the rainforest.","-처럼","2단어","FALSE","FALSE","Much like","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","itcrowd","You don't want the rainforest to (_____), do you?","사라지다","1단어","FALSE","FALSE","die","","","","","","","","","","","","","","","","","","",""
+"2021-01-13","juepark","itcrowd","I've never heard anything so (_____) in my life.","이상한","1단어","FALSE","FALSE","bizarre","","","","","","","","","","","","","","","","","","",""
 "2021-01-17","juepark","bigbang","-I'm saying you can catch more files with honey than vinegar. 
--You can catch even more flies with (_____). What's your point?","거름, 퇴비","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","(_____) it's Monday.","너무 안타깝다.","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Easily calculable. We begin by (_____) the set of couples with unisex names.","식별, 확인, 찾는 것","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Oh, Ubuntu, you are my favorite Linux-based (_____).","운영체제","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","I'm sorry, Do you have (_____)?","다른 계획","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Well, no, not (_____), but...","그 자체로는(라틴어)","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","And so this conversation is (_____) your door-knocking soliloquy?","-만큼 의미없다.","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Fair point","-","해석","TRUE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","You know, there's something (_____) Aquaman. Where does he poop?","-에 대해 궁금해왔어","5단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","No, I was just giving you a (_____).","칭찬","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","-Guys, how about some music? -Oh, I would (_____) that.","-을 선호하지 않다. 좋아하지 않다.","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Okay. (_____) slience it is.","불편한","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Well, (_____) tell her?","-하지 그래요?","3단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","You think you could be a little more (_____)?","신중한, 조심스러운","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-17","juepark","bigbang","Spoiler (_____)!","알리다, 경보","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-18","juepark","bigbang","Appendicitis. (_____).","전체해석 : 맹장염이라니 호들갑은","4단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+-You can catch even more flies with (_____). What's your point?","거름, 퇴비","1단어","FALSE","FALSE","manure","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","(_____), it's Monday.","너무 안타깝다.","2단어","FALSE","FALSE","Too bad","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Easily calculable. We begin by (_____) the set of couples with unisex names.","식별, 확인, 찾는 것","1단어","FALSE","FALSE","identifying","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Oh, Ubuntu, you are my favorite Linux-based (_____).","운영체제","2단어","FALSE","FALSE","operating system","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","I'm sorry, Do you have (_____)?","다른 계획","2단어","FALSE","FALSE","other plans","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Well, no, not (_____), but...","그 자체로는(라틴어)","2단어","FALSE","FALSE","per se","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","And so this conversation is (_____) your door-knocking soliloquy?","-만큼 의미없다.","3단어","FALSE","FALSE","as pointless as","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Fair point","-","해석","TRUE","FALSE","말 되네요.","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","You know, there's something (_____) Aquaman. Where does he poop?","-에 대해 궁금해왔어","5단어","FALSE","FALSE","I've always wondered about","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","No, I was just giving you a (_____).","칭찬","1단어","FALSE","FALSE","compliment","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","-Guys, how about some music? -Oh, I would (_____) that.","-을 선호하지 않다. 좋아하지 않다.","3단어","FALSE","FALSE","not care for","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Okay. (_____) slience it is.","불편한","1단어","FALSE","FALSE","Uncomfortable","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Well, (_____) tell her?","-하지 그래요?","3단어","FALSE","FALSE","Why don't you","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","You think you could be a little more (_____)?","신중한, 조심스러운","1단어","FALSE","FALSE","discreet","","","","","","","","","","","","","","","","","","",""
+"2021-01-17","juepark","bigbang","Spoiler (_____)!","알리다, 경보","1단어","FALSE","FALSE","alert","","","","","","","","","","","","","","","","","","",""
+"2021-01-18","juepark","bigbang","Appendicitis. (_____).","전체해석 : 맹장염이라니 호들갑은","4단어","FALSE","FALSE","What a nervous Nelly","","","","","","","","","","","","","","","","","","",""
 "2021-01-18","juepark","bigbang","Leonard: What would you be if you were attached to another object by an (_____) wrapped helically around an axis?
-Sheldon: Screwed.","경사면","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+Sheldon: Screwed.","경사면","2단어","FALSE","FALSE","inclined plane","","","","","","","","","","","","","","","","","","",""
 "2021-01-18","juepark","bigbang","Leonard: Yes. Um, is this the High IQ sperm bank?
 Receptionist: (_____), maybe you shouldn’t be here.
-Sheldon: I think this is the place.","물어봐야한다면","5단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"2021-01-18","juepark","bigbang"," Leonard: I don’t know, I’ve never reneged on a (_____) of sperm before.","제안","1단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+Sheldon: I think this is the place.","물어봐야한다면","5단어","FALSE","FALSE","If you have to ask","","","","","","","","","","","","","","","","","","",""
+"2021-01-18","juepark","bigbang"," Leonard: I don’t know, I’ve never reneged on a (_____) of sperm before.","제안","1단어","FALSE","FALSE","proffer","","","","","","","","","","","","","","","","","","",""
 "2021-01-18","juepark","bigbang","Leonard: Oh… uh… no… we don’t live together… um… we live together
-but (_____), heterosexual bedrooms.","따로","2단어","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","juepark","bigbang","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
-"","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
+but (_____), heterosexual bedrooms.","따로","2단어","FALSE","FALSE","in separate","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Penny: Hey, you guys (_____)?","주문할 준비됐어요?","3단어","FALSE","FALSE","ready to order","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Sheldon: Since we come in every Tuesday night at 6:00...
+and order the same exact thing, and it's now 6:08...
+I believe your question (__A__) answers itself...
+(__B__) stands alongside such other nonsensical queries as:","A뿐만 아니라 B도 
+","A: 2단어 
+B: 2단어
+(답변 형식: A, B)","FALSE","FALSE","not only, but also","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Penny: Okay, so the usual with extra (_____) on Sheldon's hamburger.","침을 뱉다","1단어","FALSE","FALSE","spit","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Amy: Penny, (_____). Do you have plans this weekend?
+Penny: Oh, gee, Amy, I'm sorry, I'm actually pretty busy this weekend.","잠시만요","1단어","FALSE","FALSE","a moment","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Penny: Don't (_____) the people who handle the things you eat.","-을 화나게 하다.","2단어","FALSE","FALSE","piss off","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Zack: Oh, I see, You guys are (__A__) that I'm stupid.
+Sheldon: That's not correct. We were implying it. 
+You then (__A'__) it.","추론하다.","1단어,
+두 괄호에 다른 
+형태로 쓰임 
+(답변형식: A, A')","FALSE","FALSE","inferring, inferred","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Amy: I don't believe there's any (_____).","그런 것","2단어","FALSE","FALSE","such thing","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Leonard: Are we (_____) this?
+Sheldon: Not at all.","너무 많이 생각하다.","1단어","FALSE","FALSE","overthinking","","","","","","","","","","","","","","","","","","",""
+"2021-01-20","juepark","bigbang","Sheldon: (_____)? Whiskers!","전체 해석: 무슨 생각인거야? 수염이 없잖아.","4단어","FALSE","FALSE","What am I thinking","","","","","","","","","","","","","","","","","","",""
+"2021-01-22","juepark","bigbang","Sheldon: Oh, your concern for me (_____).","감동적이네요.","2단어","FALSE","FALSE","is touching","","","","","","","","","","","","","","","","","","",""
+"2021-01-22","juepark","bigbang","Leonard: Absolutely. If you admit that you’re a 30-year-old man
+who’s incapable of functioning on his own.
+Raj: Ooh, Sock Mouth’s (_____).","그(Sheldon)를 궁지에 몰아넣었어","5단어","FALSE","FALSE","got him on the ropes","","","","","","","","","","","","","","","","","","",""
+"2021-01-22","juepark","bigbang","Leonard: That we go back to the way things were. But when I do something for you,
+you show a little appreciation.
+Sheldon: (_____).","역으로 제안할게","dash(-)로 연결된 
+2단어","FALSE","FALSE","Counter-proposal","","","","","","","","","","","","","","","","","","",""
+"2021-01-22","juepark","bigbang","Sheldon: We (_____) the full roommate agreement with the following addendum.","복귀시키다, 회복시키다.","1단어 
+(addendum: 부록, 추가, 추가사항)","FALSE","FALSE","reinstate","","","","","","","","","","","","","","","","","","",""
+"2021-01-22","juepark","bigbang","Sheldon: Oh, I don’t know.
+ But whoever that mystery man was, you should be (_____) grateful, 
+for without him, there would be no Leonard’s Day.","영원히, 변하지않고","1단어","FALSE","FALSE","eternally","","","","","","","","","","","","","","","","","","",""
+"2021-01-22","juepark","bigbang","Leonard: It’s not funny. That mistake got published.
+  Sheldon: Stop! I’m going to (_____)!","지리겠어..","2단어","FALSE","FALSE","wet myself","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Penny (entering): Hi. Did Sheldon change the Wi-Fi password (__A__)?
+Leonard: Yeah, it’s “Penny already eats our food, she can pay for Wi-Fi.” (__B__).","A: 또, 다시
+B: 공백없이","A: 1단어 
+B: 2단어
+(답변 형식: A, B)","FALSE","FALSE","
+again, No spaces","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Sheldon: I believe that you’re (_____) great change.
+Like when I finally got you to stop saying Valentimes Day.","-할 수 있다.","2단어","FALSE","FALSE","capable of","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Leonard: There’s this guy, Jimmy Speckerman, who (_____) me in high school.
+He sent me a message through Facebook. He’s in town and wants to have drinks.","괴롭히곤 했다.","3단어","FALSE","FALSE","used to torment","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Leonard: (_____) you’re not doing a mission? You’re just wandering around.","어째서","2단어","FALSE","FALSE","How come","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Sheldon: Had a rough night. (산책하고 머리좀 식혀야겠다고 생각했어).","영어작문","12단어","FALSE","FALSE","I thought I’d go for a walk and clear my head.","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Leonard: You know digital alcohol (_____).","해결책이 아니야","4단어","FALSE","FALSE","is never a solution","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Bernadette: Do you know how to (_____)?","입 다물다.","2단어","FALSE","FALSE","pipe down","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Bernadette: You got (_____) in your ears?","전체해석: 귀가 먹었니?","1단어","FALSE","FALSE","wax","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Howard: Yes, you did. Oh, I think my crotch is starting to (_____).","굳다","1단어","FALSE","FALSE","curdle","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Sheldon: Well, she (_____) very (_____) her silver one that says allergic to penicillin.
+Maybe they have a dressier version of that?","-를 좋아하다","2단어","FALSE","FALSE","is fond of","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Sheldon: Nonsense. I look like a train conductor.
+Under what (_____) did you lure her here?","구실, 핑계","1단어","FALSE","FALSE","pretext","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Penny: Sheldon, (_____).","시작해요","3단어","FALSE","FALSE","you’re up","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Amy: Jewellery? Seriously? Sheldon, you are the most shallow, (_____) I have ever met.
+Do you really think another transparently manip..oh! It’s a tiara! A tiara!","이기적인 사람, 
+자기 중심적인 사람","2단어
+(한 단어는 dash(-)로 연결됨)","FALSE","FALSE","self-centred person","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Mrs Wolowitz (off): Howard! Bernadette’s… Oh, she (_____) me.","-의 옆을 쌩하고 지나가다.","3단어","FALSE","FALSE","slipped right by","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Bernadette: Look, it’s obvious having kids is really important to you, and I think I (_____) a solution.","-를 제안하다.","3단어","FALSE","FALSE","came up with","","","","","","","","","","","","","","","","","","",""
+"2021-01-25","juepark","bigbang","Sheldon: I love my mind.
+Leonard: (_____). Now, how about dinner?","다들 좋아하지.","3단어","FALSE","FALSE","We all do","","","","","","","","","","","","","","","","","","",""
 "","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
 "","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""
 "","","","","","","FALSE","FALSE","","","","","","","","","","","","","","","","","","","",""

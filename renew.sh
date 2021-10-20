@@ -46,11 +46,12 @@ function change_to_txt()
 echo "1. Check version"
 check_install
 echo "2. Get quiz.csv & answer.csv"
-if [ $# -eq 1 ];then
-	get_custom $1
-else	
-	get_google
-fi
+#if [ $# -eq 1 ];then
+#	get_custom $1
+#else	
+#	get_google
+#fi
+get_custom
 mv quiz.csv src/
 mv answer.csv src/
 echo "3. Change srt file -> txt file"
